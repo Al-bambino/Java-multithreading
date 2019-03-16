@@ -1,4 +1,4 @@
-package model;
+package mihajlovic.todor;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

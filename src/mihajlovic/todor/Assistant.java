@@ -1,6 +1,4 @@
-package model;
-
-import java.util.concurrent.Semaphore;
+package mihajlovic.todor;
 
 public class Assistant extends Teacher implements Runnable
 {
